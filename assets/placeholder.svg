@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#eee6db"/>
+  <path d="M0 620 C170 430 330 430 520 620 L520 800 L0 800 Z" fill="#c9cfc0"/>
+  <path d="M650 0 C930 0 1200 150 1200 430 L1200 0 Z" fill="#d98d60" opacity=".45"/>
+  <text x="600" y="390" text-anchor="middle" font-family="Georgia,serif" font-size="48" fill="#70574e">TU FOTOGRAFÍA</text>
+</svg>
